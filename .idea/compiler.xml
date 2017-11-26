@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="online-study-biz" />
+        <module name="online-study-boot" />
+        <module name="online-study-call" />
+        <module name="online-study-client" />
+        <module name="online-study-common" />
+        <module name="online-study-config" />
+        <module name="online-study-openservice" />
+        <module name="onlinestudy" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="online-study" target="1.5" />
+      <module name="online-study-biz" target="1.5" />
+      <module name="online-study-boot" target="1.5" />
+      <module name="online-study-call" target="1.5" />
+      <module name="online-study-client" target="1.5" />
+      <module name="online-study-common" target="1.5" />
+      <module name="online-study-config" target="1.5" />
+      <module name="online-study-openservice" target="1.5" />
+      <module name="onlinestudy" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

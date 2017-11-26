@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/online-study.iml" filepath="$PROJECT_DIR$/online-study.iml" />
+      <module fileurl="file://$PROJECT_DIR$/biz/online-study-biz.iml" filepath="$PROJECT_DIR$/biz/online-study-biz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/boot/online-study-boot.iml" filepath="$PROJECT_DIR$/boot/online-study-boot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/call/online-study-call.iml" filepath="$PROJECT_DIR$/call/online-study-call.iml" />
+      <module fileurl="file://$PROJECT_DIR$/client/online-study-client.iml" filepath="$PROJECT_DIR$/client/online-study-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common/online-study-common.iml" filepath="$PROJECT_DIR$/common/online-study-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/config/online-study-config.iml" filepath="$PROJECT_DIR$/config/online-study-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/openservice/online-study-openservice.iml" filepath="$PROJECT_DIR$/openservice/online-study-openservice.iml" />
+    </modules>
+  </component>
+</project>
